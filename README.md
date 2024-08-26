@@ -22,8 +22,9 @@
 
     npm run dev
 
-## Software
+## Software and Languages
     This project was built using the following:
         - Next.js
         - Firebase
         - Visual Studio Code
+        - Javascript 
