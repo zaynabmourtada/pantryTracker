@@ -31,4 +31,5 @@ This project was built using the following:
 
 ## Demo
 
-https://www.youtube.com/watch?v=-HxOr4LUuhM
+To watch the video demonstration of the running application: 
+[![Watch the video](thumbnail.png)]()
